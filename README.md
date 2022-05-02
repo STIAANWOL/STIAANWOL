@@ -9,7 +9,7 @@ My skill set is focused on Frontend Web Development. I am fluent in HTML, CSS, J
 *   🌍  I'm based in Cape Town
 *   ✉️  You can contact me at [stiaan99@gmail.com](mailto:stiaan99@gmail.com)
 *   🧠  I'm learning NextJS
-<br/>
+
 <a href="https://www.twitter.com/StiaanW" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/StiaanW?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/STIAANWOL" target="_blank" rel="noreferrer"><img
