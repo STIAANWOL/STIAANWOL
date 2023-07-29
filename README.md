@@ -13,7 +13,8 @@ My skill set is focused on Frontend Web Development. I am fluent in HTML, CSS, J
 <a href="https://www.twitter.com/StiaanW" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/StiaanW?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/STIAANWOL" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/STIAANWOL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/STIAANWOL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/STIAANWOL" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/stars/STIAANWOL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
